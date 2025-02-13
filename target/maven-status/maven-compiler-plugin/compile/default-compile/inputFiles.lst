@@ -1,0 +1,5 @@
+/home/mariaalmeida/MeusEstudos/springboot/src/main/java/com/example/springboot/SpringbootApplication.java
+/home/mariaalmeida/MeusEstudos/springboot/src/main/java/com/example/springboot/controller/ProductController.java
+/home/mariaalmeida/MeusEstudos/springboot/src/main/java/com/example/springboot/dto/ProductRecordDto.java
+/home/mariaalmeida/MeusEstudos/springboot/src/main/java/com/example/springboot/model/ProductModel.java
+/home/mariaalmeida/MeusEstudos/springboot/src/main/java/com/example/springboot/repository/ProductRepository.java
